@@ -1,0 +1,14 @@
+# Created by venv; see https://docs.python.org/3/library/venv.html
+# ignore virtual environments
+test_task/
+.env/
+
+# bytecode
+__pycache__/
+*.py[cod]
+
+# VS Code settings
+.vscode/
+
+# opthers
+*.log
