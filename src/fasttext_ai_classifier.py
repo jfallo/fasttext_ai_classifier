@@ -62,5 +62,5 @@ print(text_model.test("data/text_test.txt")[1])
 print(pos_model.test("data/pos_test.txt")[1])
 
 # save models
-text_model.save_model('src/text_ai_classifier.bin')
-pos_model.save_model('src/pos_combined_ai_classifier.bin')
+#text_model.save_model('src/text_ai_classifier.bin')
+#pos_model.save_model('src/pos_combined_ai_classifier.bin')
